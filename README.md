@@ -37,7 +37,6 @@ A modern, full-featured template built with React, TypeScript, and Tailwind CSS.
 
 - Node.js (version 18 or higher)
 - npm or yarn package manager
-- Wix account and site
 
 ### Installation
 
